@@ -56,4 +56,8 @@ pytest tests/
 Este comando irá rodar os testes de validação de dados, como a verificação de tabelas, colunas, dados nulos e negativos.
 
 ## 5. Contribuindo
-Se você deseja contribuir com melhorias para o projeto, faça um fork, crie uma branch e envie suas mudanças com um pull request.
+Se você deseja apoiar este projeto, deixe um ⭐.
+
+___
+
+Feito com 💙 por [Marco Antonio](https://www.linkedin.com/in/mrk-silva/).
